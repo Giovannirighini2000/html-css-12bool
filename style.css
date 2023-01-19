@@ -1,0 +1,19 @@
+[class^='col'] {
+	padding: 10px;
+	background-color: rgb(114, 28, 163);
+	color: white;
+	border: 1px solid white;
+}
+.text-center{
+	text-align: center;
+}
+.green{
+	background-color: rgb(40, 141, 145);
+}
+.pad{
+	padding-top: 20px;
+}
+.red{
+	background-color: rgb(223, 43, 43);
+	border: 2px solid rgb(7, 1, 1);
+}
